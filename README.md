@@ -1,3 +1,6 @@
+[![pipeline status](http://tools.micheledighoffer.fr/edimitchel/vue-deepl/badges/master/pipeline.svg)](http://tools.micheledighoffer.fr/edimitchel/vue-deepl/commits/master) [![coverage report](http://tools.micheledighoffer.fr/edimitchel/vue-deepl/badges/master/coverage.svg)](http://tools.micheledighoffer.fr/edimitchel/vue-deepl/commits/master)
+
+
 # vue-deepl
 
 > integrate i18n on the fly in your app

@@ -1,0 +1,12 @@
+
+form {
+  textarea {
+    border: 2px solid #333;
+    resize: none;
+    padding: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+}
+
+// Import your library's styles
+@import 'lib'

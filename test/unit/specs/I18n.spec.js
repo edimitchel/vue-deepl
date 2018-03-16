@@ -5,8 +5,7 @@ describe('I18n-assistant.vue', () => {
   it('should render correct contents', () => {
     const Constructor = Vue.extend(I18nAssistant)
     const vm = new Constructor().$mount()
-    console.log(vm.$el)
-    expect(vm.$el.querySelector('#i18nAssist').textContent)
-      .to.exists()
+
+    expect(vm.$el.querySelector('.i18n-assistant-form')).to.not.be.null
   })
 })
